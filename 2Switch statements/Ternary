@@ -1,2 +1,8 @@
-
-
+/*means composed of 3 parts does more of what an if/else statement does i.e
+condition ? {true} :{false}
+*/
+const kramer = prompt(`enter your age`);
+const age =
+  kramer >= 23
+    ? console.log(`hey young man your are old`)
+    : console.log(`sorry young man you are young`);

@@ -20,5 +20,6 @@
         "sato",
         "Tomoko",
         "Wazito"
-    ]
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
